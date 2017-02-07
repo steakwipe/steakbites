@@ -17,4 +17,4 @@ SYS-NAME_theme-name_DESC-TEXT.png
 
 Underscores will separate the items there. Unless you have a better idea. Anyway, screenshot dump! Hit me up on twitter @steakwipe or pop into #ninjapirate on irc.freenode.net if you have any questions or concerns. Additionally, on Gmail I am steakwipe. If you can figure out how to send me an email, I'll reply to that too. Maybe.
 
-![Screenshot of the $TIMEPERIOD!](/master/gentoo_arc-welldone_cutest.png "Aaaaaw, I wanted to explode.")
+![Screenshot of the $TIMEPERIOD!](https://github.com/steakwipe/steakbites/blob/master/gentoo_arc-welldone_cutest.png "Aaaaaw, I wanted to explode.")
