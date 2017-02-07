@@ -10,9 +10,12 @@ I'll try to stick to the naming convention I came up with. Try.
 
 It goes something like..
 
-system-name_theme-name_descriptive-text.png
+```
+SYS-NAME_theme-name_DESC-TEXT.png
+```
+...roughly. 
 
-Underscores will separate the items there. Unless you have a better idea. Anyway, screenshot dump! Hit me up on twitter @stealwipe or pop into #ninjapirate on irc.freenode.net if you have any questions or concerns. Additionally, on Gmail I am steakwipe. If you can figure out how to send me an email, I'll reply to that too.
+Underscores will separate the items there. Unless you have a better idea. Anyway, screenshot dump! Hit me up on twitter @steakwipe or pop into #ninjapirate on irc.freenode.net if you have any questions or concerns. Additionally, on Gmail I am steakwipe. If you can figure out how to send me an email, I'll reply to that too. Maybe.
 
 
  
